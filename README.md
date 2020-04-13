@@ -9,7 +9,7 @@
 
 ## Group Members
 * [Ashwini Sahu](https://github.com/ASHWIN990)
-* Mitali Mohanty
+* [Mitali Mohanty](https://github.com/Mittu1211)
 * [Shiv Shankar Raj](https://github.com/rajshiv1102)
 * Parina Naik
 
