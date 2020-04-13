@@ -1,7 +1,7 @@
-<h1 align=""center"> Payroll Managment System </h1>
-                   
+ <p align="center"><h1>
+                     Payroll Managment System.
+  </h1></p>
 <h3 align="center">A Payroll Managment solution build in Java.</h3>
-
 ## Technology and Software used :-
 * [Java](https://www.java.com/en/)
 * [MySql](https://www.mysql.com/)
